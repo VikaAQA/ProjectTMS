@@ -42,7 +42,7 @@ public class Method {
         }
     }
     public static void main(String[] args) {
-        // Тестовые номера документов
+
         String[] documents = {
                 "555abc1231a2b",     // Валидный
                 "123abc9991a2b",     // Не начинается с 555
